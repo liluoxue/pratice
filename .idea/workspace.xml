@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f043fd6-7dcb-4fea-96e5-43cb6c7f7460" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9f043fd6-7dcb-4fea-96e5-43cb6c7f7460" name="Default Changelist" comment="更新模板">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +141,7 @@
       <recent name="$PROJECT_DIR$/resources/lang" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/storage" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/storage/app/public" />
     </key>
@@ -185,7 +186,7 @@
       <workItem from="1565774392144" duration="1533000" />
       <workItem from="1565779238528" duration="4921000" />
       <workItem from="1565827178977" duration="605000" />
-      <workItem from="1565932929304" duration="515000" />
+      <workItem from="1565932929304" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1565933198550</created>
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565933198550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新gitinore">
+      <created>1565933532700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565933532700</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +221,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="更新gitinore" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新gitinore" />
   </component>
 </project>
