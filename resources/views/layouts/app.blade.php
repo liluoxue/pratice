@@ -44,13 +44,13 @@
             <span class="fui-cross"></span>
         </div>
     </div>
-    <script src="{{asset('storage/assets/waifu-tips.js')}}"></script>
-    <script src="{{asset('storage/assets/live2d.js')}}"></script>
+    <script src="{{asset('assets/waifu-tips.js')}}"></script>
+    <script src="{{asset('assets/live2d.js')}}"></script>
 
-    <script type="text/javascript">initModel("{{asset('storage/assets')}}")</script>
+    <script type="text/javascript">initModel("{{asset('assets')}}")</script>
 
     <br>
-    <a href="{{asset('storage/assets/waifu-tips.js')}}"></a>
+    <a href="{{asset('assets/waifu-tips.js')}}"></a>
     <br>
     <a href="{{ asset('js/app.js') }}"></a>
 
