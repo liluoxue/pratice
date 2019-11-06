@@ -18,6 +18,9 @@
                 <!-- Authentication Links -->
                 <li class="nav-item">
                 <a class="nav-link" href="{{ route('posts.index') }}">{{ __('博客') }}</a>
+                <li class="nav-item">
+                <a class="nav-link" href="{{ route('posts.create') }}">{{ __('创建博客') }}</a>
+                </li>
                 @guest
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
